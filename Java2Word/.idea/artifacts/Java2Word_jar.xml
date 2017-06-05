@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Java2Word:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Java2Word_jar</output-path>
+    <root id="archive" name="Java2Word.jar">
+      <element id="module-output" name="Java2Word" />
+      <element id="extracted-dir" path="F:/软件/Vis软件/Java2word/freemarker-2.3.19.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="F:/软件/Vis软件/Java2word/jfreechart-1.0.13.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="F:/软件/Vis软件/Java2word/jcommon-1.0.10/jcommon-1.0.10.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
